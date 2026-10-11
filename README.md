@@ -8,6 +8,8 @@ A simple yet powerful sentiment analysis web app built with Python and Streamlit
 
 ---
 
+🌐 **Live Demo:** [Try it here](https://sentiment-analyzer-b9xuxmxbt6aqhraty4t5g3.streamlit.app/)
+
 ## 🚀 Features
 
 - **Real-time sentiment detection** — Positive, Negative, or Neutral
@@ -78,6 +80,3 @@ sentiment-analyzer/
 
 ---
 
-## 📄 License
-
-This project is open source and available under the [MIT License](LICENSE).
